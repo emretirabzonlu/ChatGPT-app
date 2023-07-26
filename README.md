@@ -1,6 +1,6 @@
 # React ChatGPT App
 
-Job Lis App made with REDUX-TOOLKİT
+
 
 ## Technologies
 
